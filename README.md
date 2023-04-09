@@ -7,7 +7,7 @@ How to solve this?
 The most efficient way is to change page builder, but for you who can't, just follow the next 2 steps:
 
 1. Install [Stylebot](https://chrome.google.com/webstore/detail/stylebot/oiaejidbmkiecgbjeifoejpgmdaleoha?hl=en) chrome extension
-2. Insert provided css code to Stylebot's code tab.
+2. Insert provided css code to Stylebot's code tab while you're on editor page.
 
 This shoul'd bring back old Elementor editor colors, at least most of it. All suggestions are welcome. </br></br>
 
