@@ -35,10 +35,10 @@
   --e-a-bg-info: #F3FCFF;
   --e-a-color-txt-invert: ##a4afb7;
 }
-.e-con-inner>.e-con>.elementor-element-overlay .elementor-editor-element-setting, .e-con--column .eicon-handle {
+.e-con-inner>.e-con>.elementor-element-overlay .elementor-editor-element-setting, .e-con>.e-con>.elementor-element-overlay .elementor-editor-element-setting {
   background: #556068;
 }
-.e-con-inner>.e-con>.elementor-element-overlay .elementor-editor-element-setting:hover, .e-con--column .eicon-handle:hover {
+.e-con-inner>.e-con>.elementor-element-overlay .elementor-editor-element-setting:hover {
   background: #495157;
 }
 .elementor-add-new-section {
