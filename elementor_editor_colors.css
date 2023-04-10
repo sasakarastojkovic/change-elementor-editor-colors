@@ -35,13 +35,10 @@
   --e-a-bg-info: #F3FCFF;
   --e-a-color-txt-invert: ##a4afb7;
 }
-#elementor-panel-header {
-  background-color: #93003C;
-}
-.e-con-inner>.e-con>.elementor-element-overlay .elementor-editor-element-setting {
+.e-con-inner>.e-con>.elementor-element-overlay .elementor-editor-element-setting, .e-con--column .eicon-handle {
   background: #556068;
 }
-.e-con-inner>.e-con>.elementor-element-overlay .elementor-editor-element-setting:hover {
+.e-con-inner>.e-con>.elementor-element-overlay .elementor-editor-element-setting:hover, .e-con--column .eicon-handle:hover {
   background: #495157;
 }
 .elementor-add-new-section {
@@ -65,9 +62,13 @@
 
  /*-- Elementor panel --*/
 
+#elementor-panel-header {
+  background-color: #93003C;
+}
 #elementor-panel-page-editor, #elementor-panel-page-settings {
   background: #fff;
 }
+
 #elementor-panel-content-wrapper {
   background: #e6e9ec;
 }
@@ -101,16 +102,19 @@
   color: #495157;
   margin: 0 7px;
 }
+
 .elementor-switch-label:after {
   color: #fff;
 }
 #elementor-panel__editor__help {
   background: #e6e9ec;
 }
+
 .elementor-panel-menu-items {
   background: #fff;
   border-radius: 5px;
 }
+
 #elementor-kit-panel {
   background: #fff;
 }
