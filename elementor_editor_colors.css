@@ -65,7 +65,7 @@
 
  /*-- Elementor panel --*/
 
-#elementor-panel-page-editor {
+#elementor-panel-page-editor, #elementor-panel-page-settings {
   background: #fff;
 }
 #elementor-panel-content-wrapper {
