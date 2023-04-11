@@ -1,4 +1,4 @@
-# How to change Elementor editor colors
+# How to change Elementor pink editor colors
 
 All web designers and developers who use Elementor for producing websiters for clients are facing unwanted editor changes from Elementor 3.12.0. Pink is now dominant color in preview editor, and the other elements are causing an unpleasant eyestrain.
 
